@@ -29,28 +29,27 @@
 
 # 📌 주요 기능
 
-#### ✔️ 리타(캐릭터) - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A6%AC%ED%83%80%E2%80%90%EC%BA%90%EB%A6%AD%ED%84%B0))
-- 캐릭터 이동
-- 기본 공격
+#### ✔️ 리타(캐릭터)
+- 캐릭터 이동 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A6%AC%ED%83%80-%E2%80%90-%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%9D%B4%EB%8F%99))
+- 기본 공격 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A6%AC%ED%83%80-%EA%B3%B5%EA%B2%A9))
 
-#### ✔️ 리타 스킬 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%82%AC))
-- 대쉬
-- 검기 발사
-- 검무
-- 폴다운스워드
+#### ✔️ 리타 스킬
+- 대쉬 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%82%AC-%E2%80%90-%EB%8C%80%EC%89%AC))
+- 검기 발사 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%82%AC-1-%E2%80%90-%EA%B2%80%EA%B8%B0%EB%B0%9C%EC%82%AC))
+- 검무 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%82%AC-2-%E2%80%90-%EA%B2%80%EB%AC%B4))
+- 폴다운스워드 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%82%AC-3-%E2%80%90-%ED%8F%B4%EB%8B%A4%EC%9A%B4-%EC%8A%A4%EC%9B%8C%EB%93%9C))
 
-#### ✔️ 몬스터 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%AA%AC%EC%8A%A4%ED%84%B0))
-- 몬스터 유한상태머신
-- 보스 유한상태 머신
+#### ✔️ 몬스터
+- 유한 상태 머신으로 몬스터 구현- [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%9D%BC%EB%B0%98-%EB%AA%AC%EC%8A%A4%ED%84%B0))
+- 유한 상태 머신으로 보스 몬스터 구현- [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B3%B4%EC%8A%A4-%EB%AA%AC%EC%8A%A4%ED%84%B0))
 - 스크랩터블 오브젝트(몬스터 정보)
 
 
-#### ✔️ 상점 및 인벤토리 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EB%B0%8F-%EC%83%81%EC%A0%90))
+#### ✔️ 인벤토리 및 상점
 - 스크랩터블 오브젝트(아이템 정보)
-- 인벤토리 슬롯
-- 상점 아이템 구매
-- 인벤토리에 아이템 추가
-- 인벤토리 아이템 판매
+- 슬롯 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%95%84%EC%9D%B4%ED%85%9C-%EB%B0%8F-%EC%8A%AC%EB%A1%AF))
+- 인벤토리의 아이템 추가 및 아이템 사용 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC))
+- 상점에서 아이템 구매 및 인벤토리 아이템 판매 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%EC%A0%90))
 
 #### ✔️ 마을과 스테이지 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Lita-s-adventure/wiki/%F0%9F%92%A1-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A7%88%EC%9D%84%EA%B3%BC-%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80))
 - 씬 이동
