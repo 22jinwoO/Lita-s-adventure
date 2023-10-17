@@ -6,6 +6,14 @@
 
 # 📣 게임 소개
 '리타' 라는 캐릭터가 스테이지를 클리어해 나가며 성장해 나가는 게임
+<details>
+<summary>인게임 스크린샷</summary>
+
+![이미지](https://github.com/22jinwoO/Lita-s-adventure/blob/main/%EC%9D%B8%EA%B2%8C%EC%9E%84%20%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%83%80%EC%9D%B4%ED%8B%80%20%ED%99%94%EB%A9%B4/%ED%83%80%EC%9D%B4%ED%8B%80%20%ED%99%94%EB%A9%B4.jpg)
+
+![이미지](https://github.com/22jinwoO/Lita-s-adventure/blob/main/%EC%9D%B8%EA%B2%8C%EC%9E%84%20%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%9E%85%EC%9E%A5/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%9E%85%EC%9E%A53.jpg)
+![이미지](https://github.com/22jinwoO/Lita-s-adventure/blob/main/%EC%9D%B8%EA%B2%8C%EC%9E%84%20%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%AA%AC%EC%8A%A4%ED%84%B0%20%EA%B3%B5%EA%B2%A9/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%802%20%EB%AA%AC%EC%8A%A4%ED%84%B0%20%EA%B3%B5%EA%B2%A9.jpg)
+</details>
 
 # 🎥 영상 포트폴리오
 [※ 영상 포트폴리오 링크 이동](https://drive.google.com/file/d/1A26lBAHUtruqkKa_A75RcS9zuTmyu2xW/view?usp=sharing)
