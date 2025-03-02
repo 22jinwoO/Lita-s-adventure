@@ -16,7 +16,7 @@
 </details>
 
 # 🎥 영상 포트폴리오
-[※ 영상 포트폴리오 링크 이동](https://drive.google.com/file/d/1A26lBAHUtruqkKa_A75RcS9zuTmyu2xW/view?usp=sharing)
+[![Video Label](http://img.youtube.com/vi/qwPKASiSCt8/0.jpg)](https://www.youtube.com/watch?v=qwPKASiSCt8)
 
 ---
 
