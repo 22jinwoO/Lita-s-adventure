@@ -17,7 +17,7 @@
 
 # 🎥 영상 포트폴리오
 [![Video Label](http://img.youtube.com/vi/qwPKASiSCt8/0.jpg)](https://www.youtube.com/watch?v=qwPKASiSCt8)
-
+- 이미지 클릭
 ---
 
 # ⏲ 개발기간
